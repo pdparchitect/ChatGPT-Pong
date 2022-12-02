@@ -2,6 +2,8 @@
 
 ChatGPT Pong is a simple and fun game of pong, played within a canvas element. The game features retro graphics and a smooth gameplay experience, and is easy to learn but challenging to master.
 
+![](screenshot.png)
+
 ## Demo
 
 You can try out ChatGPT Pong on CodePen here:
