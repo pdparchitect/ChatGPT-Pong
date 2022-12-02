@@ -16,6 +16,12 @@ In ChatGPT Pong, you control the left paddle and compete against the CPU, which 
 
 The game is played within a 480x360 resolution canvas, and uses retro-looking graphics and sounds to create an authentic arcade experience. The game is written in JavaScript, and is easy to customize and extend with additional features and gameplay mechanics.
 
+ChatGPT Pong was created entirely by the ChatGPT OpenAI system, using its advanced natural language processing capabilities and extensive knowledge of programming and game development.
+
+Here is behind the scenes footage of how it was done:
+
+
+
 ## License
 
 ChatGPT Pong is released under the MIT License. See the [LICENSE](LICENSE) file for details.
