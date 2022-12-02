@@ -20,6 +20,12 @@ ChatGPT Pong was created entirely by the ChatGPT OpenAI system, using its advanc
 
 Here is behind the scenes footage of how it was done:
 
+| Screenshot | Screenshot | Screenshot | Screenshot |
+|------------|------------|------------|------------|
+| ![](01.png) | ![](02.png) | ![](03.png) | ![](04.png) |
+| ![](05.png) | ![](06.png) | ![](07.png) | ![](08.png) |
+| ![](09.png) | ![](10.png) | ![](11.png) | ![](12.png) |
+| ![](13.png) | ![](14.png) |            |            |
 
 
 ## License
